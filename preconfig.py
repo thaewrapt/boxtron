@@ -11,7 +11,7 @@ import tarfile
 
 import toolbox
 
-CHECKSUM = 'c0452d6addcde172b71cac7b339e074f5f13a7ad83f2ee4736d47025dcbc760e'
+CHECKSUM = '17bf9cedc6e694983eb2a49c2add264b0e84c4efd3b1fba307cfcab5e21843e5'
 
 
 def find_resource_file(prog=sys.argv[0]):
